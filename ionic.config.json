@@ -1,0 +1,7 @@
+{
+  "name": "auth0-capacitor",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
